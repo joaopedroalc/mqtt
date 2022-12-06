@@ -2,8 +2,7 @@
 
 ## Engenharia da Computação - João Pedro de Alcantara Lima
 
-Inialmente dê um npm install para instalar as dependências da biblioteca mqtt
-fonte : https://www.npmjs.com/package/mqtt
+Inialmente dê um npm install para instalar as dependências da biblioteca mqtt, fonte : https://www.npmjs.com/package/mqtt
 
 Primeiramente para fazer uma aplicação Node JS conectar com o server do MQTT Box é preciso instalar a extensão no navegador :
 
