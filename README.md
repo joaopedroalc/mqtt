@@ -16,5 +16,5 @@ Com nossa aplicação Node rodando , precisamos enviar o topic igual configurado
 
 E assim portanto temos nosso app Node conectando com o server do MQTT:
 
-![image](https://user-images.githubusercontent.com/84744587/206018299-67d0afb9-8730-4794-806f-d8d4d86a60fe.png)
+![image](https://user-images.githubusercontent.com/84744587/206018475-fedf7ef4-a401-4f3f-9626-944edef7ca6d.png)
 
